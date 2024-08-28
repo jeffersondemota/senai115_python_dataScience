@@ -1,5 +1,5 @@
 # Python para Data Science
-Autores: JeffersonMota Senai
+Autores: JeffersonMota Senai - Noite - Santo Amaro
 
 Versão: 1
 
