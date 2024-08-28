@@ -1,5 +1,5 @@
 # Python para Data Science
-Autores: Julio Miranda
+Autores: JeffersonMota Senai
 
 Versão: 1
 
